@@ -5,6 +5,16 @@ This repository is built for paper: Neurosymbolic Computer Vision: A Survey
 
 ## Learning and Reasoning from symbolic rules
 
+- *ABL*: . 2019. paper.
+- *LB-VQA*: . 2021. paper.
+- *DeepProbLog*: 2021. paper. code.
+- *DFLO*: 2022. paper.
+- *VDP*: 2022. paper. code.
+- *NLRL*: 2022. paper.
+- *Rapid*: 2023. paper. code.
+- *RelaTe*: 2023. paper.
+- *SMTLayer*: 2023, paper.
+- *$\alpha$ILP*: 2023. paper.
 ## Learning from symbolic rules
 
 - *SBR*: Integrating Prior Knowledge into Deep Learning. 2017. [paper](https://doi.org/10.1109/icmla.2017.00-37).
