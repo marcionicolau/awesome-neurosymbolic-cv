@@ -7,15 +7,15 @@ This repository is built for paper: Neurosymbolic Computer Vision: A Survey
 
 - *ABL*: Bridging Machine Learning and Logical Reasoning by Abductive Learning. 2019. [paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/9c19a2aa1d84e04b0bd4bc888792bd1e-Paper.pdf).
 - *LB-VQA*: Visual Question Answering based on Formal Logic. 2021. [paper](https://doi.org/10.1109/icmla52953.2021.00157).
-- *DeepProbLog*: . Neural probabilistic logic programming in DeepProbLog. 2021. [paper](https://doi.org/10.1016/j.artint.2021.103504). [code](https://github.com/ML-KULeuven/deepproblog).
-- *DFLO*: 2022. paper.
-- *VDP*: 2022. paper. [code](https://github.com/muraliadithya/vdp).
-- *NLRL*: 2022. paper.
-- *Rapid*: 2023. paper. [code](https://github.com/Neural-Symbolic-Image-Labeling/Rapid/).
-- *RelaTe*: 2023. paper.
-- *SMTLayer*: 2023, paper.
-- αILP: 2023. paper.
-- 
+- *DeepProbLog*: Neural probabilistic logic programming in DeepProbLog. 2021. [paper](https://doi.org/10.1016/j.artint.2021.103504). [code](https://github.com/ML-KULeuven/deepproblog).
+- *DFLO*: Analyzing Differentiable Fuzzy Logic Operators. 2022. [paper](https://doi.org/10.1016/j.artint.2021.103602).
+- *VDP*: Composing Neural Learning and Symbolic Reasoning with an Application to Visual Discrimination. 2022. [paper](https://doi.org/10.24963/ijcai.2022/466). [code](https://github.com/muraliadithya/vdp).
+- *NLRL*: Neural logic rule layers. 2022. [paper](https://doi.org/10.1016/j.ins.2022.03.021).
+- *Rapid*: Rapid Image Labeling via Neuro-Symbolic Learning. 2023. [paper](https://doi.org/10.1145/3580305.3599485). [code](https://github.com/Neural-Symbolic-Image-Labeling/Rapid/).
+- *RelaTe*: Sample-Efficient Learning of Novel Visual Concepts. 2023. [paper](https://doi.org/10.48550/arxiv.2306.09482).
+- *SMTLayer*: Learning Modulo Theories. 2023, [paper](https://doi.org/10.48550/arxiv.2301.11435).
+- αILP: thinking visual scenes as differentiable logic programs. 2023. [paper](https://doi.org/10.1007/s10994-023-06320-1).
+  
 ## Learning from symbolic rules
 
 - *SBR*: Integrating Prior Knowledge into Deep Learning. 2017. [paper](https://doi.org/10.1109/icmla.2017.00-37).
