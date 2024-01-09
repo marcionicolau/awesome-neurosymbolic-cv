@@ -3,6 +3,16 @@ This repository is built for paper: Neurosymbolic Computer Vision: A Survey
 
 ## Citation
 
+
+- Neurosymbolic Computer Vision Publications
+  -  [Learning and Reasoning from symbolic rules](#learning-and-reasoning-from-symbolic-rules)
+  -  [Learning from symbolic rules](#learning-from-symbolic-rules)
+  -  [Reasoning from symbolic rules](#reasoning-from-symbolic-rules)
+  -  [Learning and Reasoning from approximated rules](#learning-and-reasoning-from-approximated-rules)
+  -  [Frameworks](#frameworks)
+  -  [Datasets](#datasets)
+
+
 ## Learning and Reasoning from symbolic rules
 
 - *ABL*: Bridging Machine Learning and Logical Reasoning by Abductive Learning. 2019. [paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/9c19a2aa1d84e04b0bd4bc888792bd1e-Paper.pdf).
