@@ -5,17 +5,17 @@ This repository is built for paper: Neurosymbolic Computer Vision: A Survey
 
 ## Learning and Reasoning from symbolic rules
 
-- *ABL*: . 2019. paper.
-- *LB-VQA*: . 2021. paper.
-- *DeepProbLog*: 2021. paper. [code](https://github.com/ML-KULeuven/deepproblog).
+- *ABL*: Bridging Machine Learning and Logical Reasoning by Abductive Learning. 2019. [paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/9c19a2aa1d84e04b0bd4bc888792bd1e-Paper.pdf).
+- *LB-VQA*: Visual Question Answering based on Formal Logic. 2021. [paper](https://doi.org/10.1109/icmla52953.2021.00157).
+- *DeepProbLog*: . Neural probabilistic logic programming in DeepProbLog. 2021. [paper](https://doi.org/10.1016/j.artint.2021.103504). [code](https://github.com/ML-KULeuven/deepproblog).
 - *DFLO*: 2022. paper.
 - *VDP*: 2022. paper. [code](https://github.com/muraliadithya/vdp).
 - *NLRL*: 2022. paper.
 - *Rapid*: 2023. paper. [code](https://github.com/Neural-Symbolic-Image-Labeling/Rapid/).
 - *RelaTe*: 2023. paper.
 - *SMTLayer*: 2023, paper.
-- $\alpha$ILP: 2023. paper.
-$\sqrt{\$4}$
+- αILP: 2023. paper.
+- 
 ## Learning from symbolic rules
 
 - *SBR*: Integrating Prior Knowledge into Deep Learning. 2017. [paper](https://doi.org/10.1109/icmla.2017.00-37).
