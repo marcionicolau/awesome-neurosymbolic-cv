@@ -26,7 +26,6 @@ This repository is built for paper: Neurosymbolic Computer Vision: A Survey
 - *SMTLayer*: Learning Modulo Theories. 2023, [paper](https://doi.org/10.48550/arxiv.2301.11435).
 - αILP: thinking visual scenes as differentiable logic programs. 2023. [paper](https://doi.org/10.1007/s10994-023-06320-1).
 
-[up](#citation)
 
 ## Learning from symbolic rules
 
@@ -35,7 +34,6 @@ This repository is built for paper: Neurosymbolic Computer Vision: A Survey
 - *RwPK*: Regularizing deep networks with prior knowledge: A constraint-based approach. 2021. [paper](https://doi.org/10.1016/j.knosys.2021.106989). [code](https://sites.google.com/view/regularizingdeepnetworks/home).
 - *logLTN*: Differentiable Fuzzy Logic in the Logarithm Space. 2023. [paper](https://doi.org/10.48550/arxiv.2306.14546). [code](https://github.com/sbadredd/logltn-experiments).
 
-[up](#citation)
  
 ## Reasoning from symbolic rules
 
@@ -45,11 +43,9 @@ This repository is built for paper: Neurosymbolic Computer Vision: A Survey
 - *DUA*: Detect, Understand, Act: A Neuro-symbolic Hierarchical Reinforcement Learning Framework. 2022. [paper](https://doi.org/10.1007/s10994-022-06142-7).
 - *FO-SL*: Composing Neural Learning and Symbolic Reasoning with an Application to Visual Discrimination. 2022. [paper](https://doi.org/10.24963/ijcai.2022/466). [code](https://github.com/muraliadithya/vdp)
 
-[up](#citation)
  
 ## Learning and Reasoning from approximated rules
 
-[up](#citation)
  
 ## Frameworks
 
@@ -57,8 +53,6 @@ This repository is built for paper: Neurosymbolic Computer Vision: A Survey
 - *Scallop*: From Probabilistic Deductive Databases to Scalable Differentiable Reasoning. 2021. [paper](https://openreview.net/forum?id=ngdcA1tlDvj). [code](https://www.scallop-lang.org/).
 - *PyTorch Explain*: Interpretable Neural-Symbolic Concept Reasoning. 2022. [paper](https://proceedings.mlr.press/v202/barbiero23a.html). [code](https://pypi.org/project/torch-explain/).
 
-[up](#citation)
  
 ## Datasets
 
-[up](#citation)
