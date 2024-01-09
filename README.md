@@ -24,4 +24,8 @@ This repository is built for paper: Neurosymbolic Computer Vision: A Survey
 
 ## Frameworks
 
+- *LTN*: Logic Tensor Networks. 2017. [paper](https://doi.org/10.1016/j.artint.2021.103649). [code](https://github.com/logictensornetworks/logictensornetworks).
+- *Scallop*: From Probabilistic Deductive Databases to Scalable Differentiable Reasoning. 2021. [paper](https://openreview.net/forum?id=ngdcA1tlDvj). [code](https://www.scallop-lang.org/).
+- *PyTorch Explain*: Interpretable Neural-Symbolic Concept Reasoning. 2022. [paper](https://proceedings.mlr.press/v202/barbiero23a.html). [code](https://pypi.org/project/torch-explain/).
+  
 ## Datasets
