@@ -23,7 +23,7 @@ This repository is built for paper: Neurosymbolic Computer Vision: A Survey
 - *NLRL*: Neural logic rule layers. 2022. [📑](https://doi.org/10.1016/j.ins.2022.03.021).
 - *Rapid*: Rapid Image Labeling via Neuro-Symbolic Learning. 2023. [📑](https://doi.org/10.1145/3580305.3599485). [💻](https://github.com/Neural-Symbolic-Image-Labeling/Rapid/).
 - *RelaTe*: Sample-Efficient Learning of Novel Visual Concepts. 2023. [📑](https://doi.org/10.48550/arxiv.2306.09482).
-- *SMTLayer*: Learning Modulo Theories. 2023, [📑](https://doi.org/10.48550/arxiv.2301.11435).
+- *SMTLayer*: Learning Modulo Theories. 2023. [📑](https://doi.org/10.48550/arxiv.2301.11435).
 - αILP: thinking visual scenes as differentiable logic programs. 2023. [📑](https://doi.org/10.1007/s10994-023-06320-1).
 
 
@@ -39,9 +39,9 @@ This repository is built for paper: Neurosymbolic Computer Vision: A Survey
 
 - *SSR*: A Scalable Reasoning and Learning Approach for Neural-Symbolic Stream Fusion. 2021. [📑](https://doi.org/10.1609/aaai.v35i6.16633).
 - *NSL*: Unifying neural learning and symbolic reasoning for spinal medical report generation. 2021. [📑](https://doi.org/10.1016/j.media.2020.101872).
-- *NS-VQA*:  A Neuro-Symbolic ASP Pipeline for Visual Question Answering. 2022. [📑](https://doi.org/10.1017/s1471068422000229). [💻](https://github.com/macehil/nesy-asp-vqa-pipeline)
+- *NS-VQA*:  A Neuro-Symbolic ASP Pipeline for Visual Question Answering. 2022. [📑](https://doi.org/10.1017/s1471068422000229). [💻](https://github.com/macehil/nesy-asp-vqa-pipeline).
 - *DUA*: Detect, Understand, Act: A Neuro-symbolic Hierarchical Reinforcement Learning Framework. 2022. [📑](https://doi.org/10.1007/s10994-022-06142-7).
-- *FO-SL*: Composing Neural Learning and Symbolic Reasoning with an Application to Visual Discrimination. 2022. [📑](https://doi.org/10.24963/ijcai.2022/466). [💻](https://github.com/muraliadithya/vdp)
+- *FO-SL*: Composing Neural Learning and Symbolic Reasoning with an Application to Visual Discrimination. 2022. [📑](https://doi.org/10.24963/ijcai.2022/466). [💻](https://github.com/muraliadithya/vdp).
 
  
 ## Learning and Reasoning from approximated rules
@@ -84,3 +84,12 @@ This repository is built for paper: Neurosymbolic Computer Vision: A Survey
  
 ## Datasets
 
+- MNIST. [📑](https://doi.org/10.1109/5.726791). [💾](http://yann.lecun.com/exdb/mnist/).
+- PASCAL-PART. [📑](https://dl.acm.org/doi/10.1109/CVPR.2014.254). [💾](https://roozbehm.info/pascal-parts/pascal-parts.html).
+- CLEVR. [📑](https://doi.org/10.1109/CVPR.2017.215). [💾](https://cs.stanford.edu/people/jcjohns/clevr/).
+- GQA. [📑](https://arxiv.org/abs/1902.09506). [💾](https://cs.stanford.edu/people/dorarad/gqa/index.html).
+- CIFAR-10. [📑](https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf). [💾](https://www.cs.toronto.edu/~kriz/cifar.html).
+- Visual Sudoku. [📑](https://ceur-ws.org/Vol-3212/paper2.pdf). [💾](https://github.com/linqs/visual-sudoku-puzzle-classification).
+- CLEVR-Hans. [📑](https://doi.org/10.1109/cvpr46437.2021.00362). [💾](https://github.com/ml-research/CLEVR-Hans).
+- ImageNet. [📑](https://doi.org/10.1007/s11263-015-0816-y). [💾](https://www.image-net.org/challenges/LSVRC/2010/index).
+- CUB. [📑](https://doi.org/10.1109/ICCV.2011.6126539). [💾](https://www.vision.caltech.edu/datasets/cub_200_2011/).
